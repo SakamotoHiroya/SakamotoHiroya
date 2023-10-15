@@ -14,4 +14,3 @@
 - 🌱 I’m currently learning frontend
 - 💬 Ask me about embedded development
 - 📫 How to reach me: [twitter](https://twitter.com/hiroya_sakamoto)
-- ℹ️ My skills and works: [My Portfolio](https://ayorih.zouri.jp/)
